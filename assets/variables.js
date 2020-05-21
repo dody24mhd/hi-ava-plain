@@ -7,14 +7,14 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "Assalamualaikum", author: "standinhsd" },
+    { quote: "Selamat beraktivitas ", author: "Brian" },
+    { quote: "awali dengan Basmalah agar berkah", author: "Ian" },
+    { quote: "wkwkwkw", author: "Ian-nya Ava!" },
+    { quote: "dahhh", author: "Bribri" },
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
-  generated: ["{greetings}, {nicknames}!"],
+  nicknames: ["My friend", "My friend", "My friend", "My friend", "My friend", "My friend"],
+  generated: ["{greetings}, {Muhammad Dody}!"],
 };
 
 const particlesConfig = {
@@ -37,11 +37,6 @@ const particlesConfig = {
       },
       polygon: {
         nb_sides: 5,
-      },
-      image: {
-        src: "./assets/heart.png",
-        width: 50,
-        height: 50,
       },
     },
     opacity: {
